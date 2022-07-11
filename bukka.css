@@ -66,12 +66,12 @@ body {
 }
 @keyframes slide {
   50% {
-    background: url(/Cube/img/Kka.png);
+    background: url(./img/Kka.png);
     background-position: center;
     background-size: cover;
   }
   100% {
-    background: url(/Cube/img/Buk.png);
+    background: url(./img/Buk.png);
     background-position: center;
     background-size: cover;
   }
